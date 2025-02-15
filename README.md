@@ -4,7 +4,7 @@ This repository contains a Python-based path planning implementation using the *
 
 ---
 
-## 📌 Features
+##  Features
 
 - **Image Processing:** Converts input map images into binary grids.
 - **A* Pathfinding:** Implements A* algorithm for path planning.
@@ -15,7 +15,7 @@ This repository contains a Python-based path planning implementation using the *
 
 ---
 
-## 🛠 Requirements
+##  Requirements
 
 Ensure you have the following dependencies installed:
 
@@ -25,7 +25,7 @@ pip install numpy opencv-python matplotlib
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 1. **Prepare Your Maps:** Place your map images (e.g., `map.png`, `map1.png`, `map2.png`) in the project directory.
 2. **Run the script:** Execute the Python script to process maps and generate paths.
@@ -39,7 +39,7 @@ python pathplanning.py
 
 ---
 
-## 📂 Output Structure
+##  Output Structure
 
 After execution, the script generates and saves the following outputs:
 
@@ -56,7 +56,7 @@ Each planner corresponds to a different map input.
 
 ---
 
-## 🖥 Visualizations
+## Visualizations
 
 The script generates the following graphs:
 
@@ -67,7 +67,7 @@ The script generates the following graphs:
 
 ---
 
-## 📜 Code Structure
+##  Code Structure
 
 - `PathPlanning` class: Handles map processing, potential field generation, and A* pathfinding.
 - `process_map()`: Extracts contours and obstacles from the input map.
@@ -77,7 +77,7 @@ The script generates the following graphs:
 
 ---
 
-## 🔗 References
+##  References
 
 [1] Albayrak, M., & Sümen, A. M. (2023). A Yıldız ve Akın Algoritmaları ile Otonom Sürü 
 Sistemleri için yol Bulma. Bilişim Teknolojileri Dergisi, 16(4), 251-261. 
@@ -110,15 +110,14 @@ Determination of Minimum Cost Paths. IEEE Transactions on Systems Science and Cy
 
 ---
 
-📄 Related Publication
+##Related Publication
 
 This work has been published in the 5. INTERNATIONAL TRAKYA SCIENTIFIC RESEARCH CONFERANCE EDİRNE,Noc,7 2024. You can find the related conference paper at the following link:
 
 [ISARC Conference Paper (Page 93)](https://www.isarconference.org/_files/ugd/6dc816_79b5de171d7c49b5b2723cd7151ffec6.pdf#page=93)
 
-## 📧 Contact
+##  Contact
 
 For any questions, please open an issue or reach out via [LinkedIn]((https://www.linkedin.com/in/arslanakin/)).
 
-Happy Coding! 🚀
 
